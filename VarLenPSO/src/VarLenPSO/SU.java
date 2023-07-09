@@ -176,7 +176,7 @@ public class SU {
     }
 
     public static void main(String[] args) throws Exception {
-        Instances data = WekaDatasetHandle.ReadDataset(args[0] + "/data.arff", Integer.parseInt(args[1]));
+        Instances data = WekaDatasetHandle.ReadDataset(args[0] + "/data3.arff", Integer.parseInt(args[1]));
         WekaDatasetHandle.PrintDatasetCharacter(data);
 
         int seed = Integer.parseInt(args[1]);

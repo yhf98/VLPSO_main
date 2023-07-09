@@ -1,0 +1,1 @@
+java -cp "VarLenPSO/lib/algs4.jar;VarLenPSO/lib/commons-math-1.2.jar;VarLenPSO/lib/java-cup-11a-runtime.jar;VarLenPSO/lib/jmsl.jar;VarLenPSO/lib/jsc.jar;VarLenPSO/lib/libsvm.jar;VarLenPSO/lib/PSOBasic.jar;VarLenPSO/lib/weka.jar;" F:\ye\VLPSO_main\VarLenPSO\src\VarLenPSO\SU.java Data 1 12 9 100

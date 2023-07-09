@@ -33,3 +33,38 @@ Fold	RunIter	Size	Fitn	IB1Tr	IB1Te	J48Tr	J48Te	NBTr	NBTe
  0 , 
  Data Solution of fold 10 :
  0 , 
+NbrFold	 AvgSize	 AvgFit	 CPUTime	IB1Tr	IB1Te	J48Tr	J48Te	NBTr	NBTe	
+10	1.00	0.10	734.38	0.00	0.00	42.65	0.00	62.01	0.00	
+Fold	RunIter	Size	Fitn	IB1Tr	IB1Te	J48Tr	J48Te	NBTr	NBTe	
+1	100	1.00	0.10	0.00	0.00	40.74	0.00	62.96	0.00	
+2	100	1.00	0.10	0.00	0.00	42.86	0.00	64.29	0.00	
+3	100	1.00	0.10	0.00	0.00	42.86	0.00	60.71	0.00	
+4	100	1.00	0.11	0.00	0.00	42.86	0.00	60.71	0.00	
+5	100	1.00	0.10	0.00	0.00	42.86	0.00	60.71	0.00	
+6	100	1.00	0.10	0.00	0.00	42.86	0.00	57.14	0.00	
+7	100	1.00	0.10	0.00	0.00	42.86	0.00	64.29	0.00	
+8	100	1.00	0.10	0.00	0.00	42.86	0.00	60.71	0.00	
+9	100	1.00	0.10	0.00	0.00	42.86	0.00	64.29	0.00	
+10	100	1.00	0.11	0.00	0.00	42.86	0.00	64.29	0.00	
+
+
+ Data Solution of fold 1 :
+ 0 , 
+ Data Solution of fold 2 :
+ 0 , 
+ Data Solution of fold 3 :
+ 0 , 
+ Data Solution of fold 4 :
+ 0 , 
+ Data Solution of fold 5 :
+ 0 , 
+ Data Solution of fold 6 :
+ 0 , 
+ Data Solution of fold 7 :
+ 0 , 
+ Data Solution of fold 8 :
+ 0 , 
+ Data Solution of fold 9 :
+ 0 , 
+ Data Solution of fold 10 :
+ 0 , 

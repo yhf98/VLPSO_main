@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VarLenPSO/lib/jmsl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VarLenPSO/lib/libsvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VarLenPSO/lib/weka.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VarLenPSO/lib/PSOBasic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VarLenPSO/lib/commons-math-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VarLenPSO/lib/java-cup-11a-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VarLenPSO/lib/jsc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VarLenPSO/lib/algs4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/VarLenPSO/lib/algs4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
